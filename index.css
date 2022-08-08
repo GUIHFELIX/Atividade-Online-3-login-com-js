@@ -1,0 +1,53 @@
+body {
+    background-color:blueviolet
+}
+a {
+    color: black;
+
+
+}
+
+header img {
+    width: 450px;
+    
+}
+
+.center {
+    background-color: rgb(107, 24, 184);
+    text-align: center;
+}
+
+.produto {
+    text-align: left;
+    
+    
+}
+
+img {
+    width:150px;
+
+}
+
+.produtocad {
+    text-align: left;
+    
+   
+}
+
+.produtoplaca {
+    text-align: left;
+
+}
+
+footer {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+
+
+}
+.navbarlogo {
+    text-align: center;
+}
